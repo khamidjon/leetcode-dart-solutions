@@ -8,7 +8,7 @@ A collection of Leetcode problems in dart language. If you like it, leave a star
 
 | Number | Solution on GitHub                                                                                                                                                         | Problem link | Difficulty                                                                           |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
-| 290 |  | [link](https://leetcode.com/problems/word-pattern/) | Easy|
+| 290 | [Word Pattern](solutions/0290-word-pattern.md) | [link](https://leetcode.com/problems/word-pattern/) | Easy|
 
 
 
