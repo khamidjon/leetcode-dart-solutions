@@ -16,6 +16,7 @@ A collection of Leetcode problems in dart language. If you like it, leave a star
 | 258 | [Add Digits](https://github.com/khamidjon/leetcode-dart-solutions/blob/main/solutions/0258-add-digits.md) | [link](https://leetcode.com/problems/add-digits/) | $${\color{green}Easy}$$|
 | 263 | [Ugly Number](https://github.com/khamidjon/leetcode-dart-solutions/blob/main/solutions/0263-ugly-number.md) | [link](https://leetcode.com/problems/ugly-number/) | $${\color{green}Easy}$$|
 | 290 | [Word Pattern](https://github.com/khamidjon/leetcode-dart-solutions/blob/main/solutions/0290-word-pattern.md) | [link](https://leetcode.com/problems/word-pattern/) | $${\color{green}Easy}$$|
+| 303 | [Range Sum Query - Immutable](https://github.com/khamidjon/leetcode-dart-solutions/blob/main/solutions/0303-range-sum-query.md) | [link](https://leetcode.com/problems/range-sum-query-immutable/) | $${\color{green}Easy}$$|
 
 
 
